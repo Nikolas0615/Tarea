@@ -7,3 +7,10 @@ for number in array:
     print(number)
 
 ```
+
+```css
+h1{
+    hight: 15px;
+}
+
+```
