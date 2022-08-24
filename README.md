@@ -1,8 +1,9 @@
 # Este es mi primer repositorio
 ## subtitulo
-´´´python
+```python
 import flask
 
+for number in array:
+    print(number)
 
-
-´´´
+```
